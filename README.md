@@ -49,7 +49,7 @@ Check out the recommended [community support options](http://sailsjs.com/support
 
 You can keep up to date with security patches, the Waterline release schedule, new database adapters, and events in your area by following us ([@sailsjs](https://twitter.com/sailsjs)) on Twitter.
 
-## Bugs &nbsp; [![NPM version](https://badge.fury.io/js/waterline.svg)](http://npmjs.com/package/waterline)
+## Bugs &nbsp; [![NPM version](https://badge.fury.io/js/waterline.svg)](http://npmjs.com/package/waterline) [![GuardRails Staging badge](https://badges.staging.guardrails.io/fictional-tribble/balderdashy--waterline.svg)](https://www.staging.guardrails.io)
 To report a bug, [click here](http://sailsjs.com/bugs).
 
 ## Contribute
